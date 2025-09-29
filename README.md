@@ -2,7 +2,7 @@
 
 ##
 
-<h3>Me chamo Wanderson e é uma satisfação te encontrar aqui no GitHub.</h3>
+<h3>Me chamo Lucas e é uma satisfação te encontrar aqui no GitHub.</h3>
 
 <ul>
   <li>Sou de Santa Barbara d'Oeste/SP</li>
