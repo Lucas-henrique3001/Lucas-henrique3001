@@ -51,9 +51,9 @@ Linguagens & Tecnologias: HTML, CSS,JavaScript, TypeScript, React.js, Node.js
 
 <h3>Estatísticas:</h3>
 
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-henrique3001&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRodrigues300&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 <br>
-[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=Lucas-henrique3001&amp;theme=radical"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=LucasRodrigues300&amp;theme=radical"/>](https://github.com/)
 
 
 
